@@ -1,4 +1,4 @@
-# QA 포트폴리오
+<img width="1256" height="243" alt="image" src="https://github.com/user-attachments/assets/4db25fac-b3fb-4ab2-8913-e8403d9d53c1" /># QA 포트폴리오
 
 ## 소개
 QA 직무 취업 준비 포트폴리오입니다.
@@ -27,4 +27,4 @@ Jira를 활용한 버그 트래킹 및 테스트 케이스 관리 실습을 기�
 - [x] Bug 이슈 생성 및 스프린트 관리
 - [x] 실제 사이트 버그 발견 및 리포트 작성
 - [x] 테스트 케이스 작성 (등가분할 / 경계값 분석)
-- [ ] Selenium 자동화 테스트
+- [x] Selenium 자동화 테스트
