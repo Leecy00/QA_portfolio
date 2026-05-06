@@ -1,4 +1,4 @@
-<img width="1256" height="243" alt="image" src="https://github.com/user-attachments/assets/4db25fac-b3fb-4ab2-8913-e8403d9d53c1" /># QA 포트폴리오
+# QA 포트폴리오
 
 ## 소개
 QA 직무 취업 준비 포트폴리오입니다.
