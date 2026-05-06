@@ -6,7 +6,6 @@ Jira를 활용한 버그 트래킹 및 테스트 케이스 관리 실습을 기�
 
 ## 사용 툴
 - Jira Software (버그 트래킹 / 스프린트 관리)
-- Zephyr Scale (테스트 케이스 관리) - 예정
 - Selenium + JUnit (테스트 자동화) - 예정
 
 ## 버그 리포트 실습 (Saucedemo.com)
